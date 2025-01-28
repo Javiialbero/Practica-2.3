@@ -1,0 +1,50 @@
+h1.potta-one-regular{
+    color: yellow;
+    background-color: blue;
+    text-align: center;
+    font-family: Pota ;
+}
+
+  div.text1{
+    background-color: aquamarine;
+    width: 20%; 
+    
+  }
+ div.text2{
+    width: 80%;
+    display: inline-flex;
+    color: yellow;
+    height: 40%;
+ }
+ p.ptext2{
+    background-color: black;
+    line-height: 200%;
+
+ }
+
+ div.general{
+    display: inline-flex
+    ;
+ }
+hr.linea{
+    border: solid 10px blue;
+}
+div.text3{
+   font-weight: 500;
+}
+.text3 {
+   font-family: "Potta One", serif;
+   font-weight: 400;
+   font-style: normal;
+ }
+ @font-face {
+   font-family: Pota;
+   src: url(fuentes/Potta_One/PottaOne-Regular.ttf);
+ }
+ @font-face {
+   font-family: yusei;
+   src: url(fuentes/Yusei_Magic/YuseiMagic-Regular.ttf);
+ }
+ div.text4{
+   font-family: yusei;
+ }
